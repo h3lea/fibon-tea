@@ -1,0 +1,10 @@
+{
+  "name": "fibo-tea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/h3lea/fibon-tea.git",
+  "author": "h3lea",
+  "license": "ISC"
+}
